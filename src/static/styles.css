@@ -74,6 +74,24 @@ section h3 {
   margin-bottom: 8px;
 }
 
+/* Adicionado para estilizar a lista de participantes */
+.activity-card ul {
+  margin: 8px 0 0 18px;
+  padding-left: 0;
+  list-style-type: disc;
+}
+
+.activity-card li {
+  font-size: 15px;
+  color: #333;
+  margin-bottom: 2px;
+}
+
+.activity-card em {
+  color: #888;
+  font-size: 14px;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
